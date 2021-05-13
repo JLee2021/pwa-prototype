@@ -52,8 +52,8 @@ Front-end
 Back-end
 
 - Google Cloud or AWS
-- Node.JS
-- Mongo DB
+- Node.JS, Python Flask
+- Mongo DB, PostgreSQL
 
 <br>
 
