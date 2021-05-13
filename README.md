@@ -61,11 +61,15 @@ Back-end
 
 Front-end
 
-- one
+- As a user, I can sign into the app
+- As a user, I can create, read, update, and delete a fishing trip
+- As a user, I can create, read, update, and delete a fishing haul in a fishing trip (multiple hauls in a single trip) and collect the time and GPS from the device at the start of that fishing haul
+- As a user, I can create, read, update, and delete catch for a fishing haul (multiple catch for a single haul)
 
 Back-end
 
-- two
+- As a user, I can establish accounts for users
+- As a system, I will validate who is signing into the app
 
 <br>
 
