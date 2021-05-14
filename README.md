@@ -76,7 +76,7 @@ Back-end
 ### Mockups:
 
 Signin
-![](readme-images/filename%20signin.png)
+![](readme-images\signin.png)
 
 <br>
 
