@@ -46,25 +46,29 @@ Any technologies can be used. The following are recommended for this project.
 
 Front-end
 
-- [Next.JS](https://nextjs.org/), create-react-app, or vanilla React.JS
+- React.JS/[Next.JS](https://nextjs.org/) or create-react-app (note: Next.JS is a React framework)
 - Material UI or Styled Components
+- [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
 
 Back-end
 
 - Google Cloud or AWS
 - Node.JS, Python Flask
-- Mongo DB, PostgreSQL
+- PostgreSQL
 
 <br>
 
 ### Requirements:
 
-- Assets for the manifest.json file will be provided
-- As a user, I can sign into the app
+- Assets for the manifest.json file will be provided the Agency
+- Species list and disposition codes will be provided by the Agency
+- As a user, I can sign into the app using my unique 3-digit ID number, e.g., 999
 - As a user, I can create, read, update, and delete a fishing trip
+- A unique trip number displayed in the dashboard is the concatenation of the users ID number and 3-digit sequential number starting at 001
 - As a user, I can create, read, update, and delete a fishing haul in a fishing trip (multiple hauls in a single trip) and collect the time and GPS from the device at the start of that fishing haul
 - As a user, I can create, read, update, and delete catch for a fishing haul (multiple catch for a single haul)
-- As a user, I can establish accounts for users
+- As a user, I can add catch via a dropdown menu, typing in the species common name, or typing in the species code
+- As a user, I can add a disposition code via a dropdown, typing in the name, or typing in the code
 - As a system, I will validate who is signing into the app
 
 <br>
@@ -73,37 +77,37 @@ Back-end
 
 Signin Page
 <br>
-<img src="https://github.com/JLee2021/pwa-prototype/blob/main/readme-images/signin.png?raw=true" width="300">
+<img src="" width="300">
 
 <br>
 
 User Dashboard
 <br>
-<img src="https://github.com/JLee2021/pwa-prototype/blob/main/readme-images/userDashboard.png?raw=true" width="300">
+<img src="" width="300">
 
 <br>
 
 New Trip
 <br>
-<img src="https://github.com/JLee2021/pwa-prototype/blob/main/readme-images/newTrip.png?raw=true" width="300">
+<img src="" width="300">
 
 <br>
 
 Trip Dashboard
 <br>
-<img src="https://github.com/JLee2021/pwa-prototype/blob/main/readme-images/TripDashboard.png?raw=true" width="300">
+<img src="" width="300">
 
 <br>
 
 Haul Dashboard
 <br>
-<img src="https://github.com/JLee2021/pwa-prototype/blob/main/readme-images/haulDashboard.png?raw=true" width="300">
+<img src=" width="300">
 
 <br>
 
 New Catch
 <br>
-<img src="https://github.com/JLee2021/pwa-prototype/blob/main/readme-images/newCatch.png?raw=true" width="300">
+<img src="" width="300">
 
 <br>
 
