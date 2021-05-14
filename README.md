@@ -76,7 +76,7 @@ Back-end
 ### Mockups:
 
 Signin
-![](readme-images\signin.png)
+![](https://github.com/JLee2021/pwa-prototype/blob/main/readme-images/signin.png?raw=true)
 
 <br>
 
