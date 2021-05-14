@@ -75,39 +75,51 @@ Back-end
 
 ### Mockups:
 
-Signin Page
+Login Page
 <br>
-<img src="" width="300">
+<img src="https://github.com/JLee2021/pwa-prototype/blob/main/readme-images/login.png?raw=true" width="300">
 
 <br>
 
 User Dashboard
 <br>
-<img src="" width="300">
+<img src="https://github.com/JLee2021/pwa-prototype/blob/main/readme-images/userdashboard.png?raw=true" width="300">
 
 <br>
 
 New Trip
 <br>
-<img src="" width="300">
+<img src="https://github.com/JLee2021/pwa-prototype/blob/main/readme-images/newtrip.png?raw=true" width="300">
 
 <br>
 
 Trip Dashboard
 <br>
-<img src="" width="300">
+<img src="https://github.com/JLee2021/pwa-prototype/blob/main/readme-images/tripdashboard.png?raw=true" width="300">
 
 <br>
 
-Haul Dashboard
+Start New Haul
 <br>
-<img src=" width="300">
+<img src="https://github.com/JLee2021/pwa-prototype/blob/main/readme-images/starthaul.png?raw=true" width="300">
 
 <br>
 
-New Catch
+Catch Log
 <br>
-<img src="" width="300">
+<img src="https://github.com/JLee2021/pwa-prototype/blob/main/readme-images/catchlog.png?raw=true" width="300">
+
+<br>
+
+Record New Catch
+<br>
+<img src="https://github.com/JLee2021/pwa-prototype/blob/main/readme-images/newcatch.png?raw=true" width="300">
+
+<br>
+
+End Haul
+<br>
+<img src="https://github.com/JLee2021/pwa-prototype/blob/main/readme-images/endhaul.png?raw=true" width="300">
 
 <br>
 
