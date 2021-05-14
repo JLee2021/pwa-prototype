@@ -1,6 +1,6 @@
 # pwa-prototype
 
-> May 12, 2021
+> May 2021
 
 <br>
 
@@ -61,15 +61,14 @@ Back-end
 ### Requirements:
 
 - Assets for the manifest.json file will be provided the Agency
+- The serviceworker.js file should serve up all assets, including any support tables
 - Species list and disposition codes will be provided by the Agency
 - As a user, I can sign into the app using my unique 3-digit ID number, e.g., 999
-- As a user, I can create, read, update, and delete a fishing trip
-- A unique trip number displayed in the dashboard is the concatenation of the users ID number and 3-digit sequential number starting at 001
-- As a user, I can create, read, update, and delete a fishing haul in a fishing trip (multiple hauls in a single trip) and collect the time and GPS from the device at the start of that fishing haul
-- As a user, I can create, read, update, and delete catch for a fishing haul (multiple catch for a single haul)
-- As a user, I can add catch via a dropdown menu, typing in the species common name, or typing in the species code
-- As a user, I can add a disposition code via a dropdown, typing in the name, or typing in the code
 - As a system, I will validate who is signing into the app
+- As a user, I can create a new fishing trip
+- A unique trip number displayed in the dashboard is the concatenation of the users 3-digit ID number and 3-digit sequential number starting at 001
+- As a user, I can create a fishing haul (multiple hauls in a single trip) and collect the time and GPS from the device at the start of that fishing haul
+- As a user, I can create catch (species and disposition) (multiple catch for a single haul) via a dropdown menu, typing in the species common name, or typing in the species code
 
 <br>
 
