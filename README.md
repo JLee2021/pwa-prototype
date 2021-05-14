@@ -75,8 +75,39 @@ Back-end
 
 ### Mockups:
 
-Signin
-![](readme-images\signin.png)
+Signin Page
+<br>
+<img src="" width="300">
+
+<br>
+
+User Dashboard
+<br>
+<img src="" width="300">
+
+<br>
+
+New Trip
+<br>
+<img src="" width="300">
+
+<br>
+
+Trip Dashboard
+<br>
+<img src="" width="300">
+
+<br>
+
+Haul Dashboard
+<br>
+<img src="" width="300">
+
+<br>
+
+New Catch
+<br>
+<img src="" width="300">
 
 <br>
 
