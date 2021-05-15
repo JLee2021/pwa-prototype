@@ -63,7 +63,7 @@ Back-end
 - Assets for the manifest.json file will be provided the Agency
 - The serviceworker.js file should serve up all assets, including any support tables
 - Species list and disposition codes will be provided by the Agency
-- As a user, I can sign into the app using my unique 3-digit ID number, e.g., 999
+- As a user, I can sign into the app using my unique 3-digit ID number, e.g., 999 (for the purposes of this prototype, ID numbers and passwords will be provided by the Agency)
 - As a system, I will validate who is signing into the app
 - As a user, I can create a new fishing trip
 - A unique trip number displayed in the dashboard is the concatenation of the users 3-digit ID number and 3-digit sequential number starting at 001
