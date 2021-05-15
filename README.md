@@ -10,7 +10,7 @@ This project will prototype a mobile-first fullstack progressive web application
 
 <br>
 
-This application, named _AtlasDataEntry_, will allow the user to sign into the application. create or modify a fishing trip, and record basic catch data (species name, code, and disposition). See requirements and mockups below.
+This application, named _AtlasDataEntry_, will allow the user to sign into the application. create a fishing trip, and record basic catch data (species name, code, and disposition). See requirements and mockups below.
 
 ### Type: Progressive Web Application
 
